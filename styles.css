@@ -1,0 +1,330 @@
+body{display: inline-block;
+    background-color:rgb(4, 1, 27);
+    color:#dff3df;
+}
+h1{color:white ;}
+
+p{
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-style: normal;
+    font-size: large;
+    color: #090c09;
+    font-weight: bolder;
+}
+.yellow{ background-color:yellow;
+    width: 400px;
+    height: 400px;
+    left: 20px;}
+
+  p.ten{
+    background-color: #f9a602;
+    height: 40px; width: 400px;
+}
+  p.nine{
+    background-color: #ffc30b;
+    height: 40px; width: 400px;
+}
+  p.eight{
+    background-color: #fcd12a;
+    height: 40px; width: 400px;
+}
+  p.seven{
+    background-color: #fedc56;
+    height: 40px; width: 400px;
+}
+  p.six{
+    background-color: #fce205;
+    height: 40px; width: 400px;
+}  
+  p.five{
+    background-color: #ffd300;
+    height: 40px; width: 400px;
+}
+  p.four{
+    background-color: #effd5f;
+    height: 40px; width: 400px;
+}
+  p.three{
+    background-color: #eedc82;
+    height: 40px; width: 400px;
+}
+  p.two{
+    background-color: #fcf4a3;
+    height: 40px; width: 400px;
+}
+  p.one{
+    background-color: #fffdd0;
+    height: 40px; width: 400px;
+}
+.multicoloured{ 
+    background-color:yellow;
+    width: 400px;
+    height: 400px;
+}
+  p.red{
+    background-color: red;
+    height: 40px; width: 400px;
+}
+  p.orange{
+    background-color: orange;
+    height: 40px; width: 400px;
+}
+  p.indigo{
+    background-color: indigo;
+    height: 40px; width: 400px;
+}
+  p.greene{
+    background-color: green;
+    height: 40px; width: 400px;
+}
+  p.blue{
+    background-color: blue;
+    height: 40px; width: 400px;
+}
+  p.purple{
+    background-color: purple;
+    height: 40px; width: 400px;
+}
+  p.pink{
+    background-color: pink;
+    height: 40px; width: 400px;
+}
+  p.violet{
+    background-color: violet;
+    height: 40px; width: 400px;
+}
+  p.yellow{
+    background-color: yellow;
+    height: 40px; width: 400px;
+}
+  p.navy{
+    background-color: rgb(85, 197, 241);
+    height: 40px; width: 400px;}
+
+.purple{ width: 400px; height: 400px;
+    background-color: rgb(75, 3, 75);
+    display: inline-block;
+  }
+   .wine{ width: 40px; height: 350px;
+    background-color:#2c041c;
+    display: inline-block;
+  writing-mode: vertical-lr;}
+   .mulberry{ width: 40px; height: 320px;
+    background-color: #4c0121;
+    display: inline-block;writing-mode: vertical-lr;} 
+   .boyenberry{ width: 40px; height: 290px;
+        background-color:#630436;
+        display: inline-block;writing-mode: vertical-lr;}
+   .grape{width: 40px; height: 260px;
+    background-color:#663046;
+    display:inline-block;writing-mode: vertical-lr;}
+   .magenta{ width: 40px; height: 230px;
+        background-color: #a1045a;
+        display: inline-block;writing-mode: vertical-lr;}
+   .mauve{ width: 40px; height: 200px;
+        background-color: #7a4988;
+        display: inline-block; writing-mode: vertical-lr;}
+    .orchid{ width: 40px; height: 170px;
+            background-color: #af69ef;
+            display: inline-block; writing-mode: vertical-lr;}
+    .lavender{ width: 40px; height: 140px;
+            background-color: #e39ff6;
+            display: inline-block;writing-mode: vertical-lr;}
+    .periwinkle{ width: 40px; height: 110px;
+            background-color: #be93d4;
+            display: inline-block;writing-mode: vertical-lr;} 
+.multicolored { width: 400px; height: 400px;
+    background-color: rgb(75, 3, 75);
+    display: inline-block;}
+    .redd{ width: 40px; height: 350px;
+    background-color:red;
+    display: inline-block; writing-mode: vertical-lr;}
+    .greenn{ width: 40px; height: 320px;
+    background-color: green;
+    display: inline-block;writing-mode: vertical-lr;}
+    .orangee{ width: 40px; height: 290px;
+        background-color:orange;
+        display: inline-block;writing-mode: vertical-lr;}
+    .yelloww{width: 40px; height: 260px;
+    background-color:yellow;
+    display:inline-block;writing-mode: vertical-lr;}
+    .bluee{ width: 40px; height: 230px;
+        background-color:blue;
+        display: inline-block;writing-mode: vertical-lr;}
+    .indigoo{ width: 40px; height: 200px;
+        background-color:indigo ;
+        display: inline-block; writing-mode: vertical-lr;}
+    .maroonn{ width: 40px; height: 170px;
+            background-color: maroon;
+            display: inline-block;writing-mode: vertical-lr;}
+    .purplee{ width: 40px; height: 140px;
+            background-color: purple;
+            display: inline-block;writing-mode: vertical-lr;}
+    .goldd{ width: 40px; height: 110px;
+            background-color: goldenrod;
+            display: inline-block;writing-mode: vertical-lr;} 
+
+.green{ width: 400px; height: 400px;
+        background-color:rgb(1, 22, 1);
+        display: inline-block;
+        padding-left: 30px;
+        padding-top:30px ;
+      }
+ .forest{ width: 70px; height: 70px;
+          background-color:#086623;
+          display: inline-block;margin-bottom: 3px;}
+ .lime{ width: 70px; height: 70px;
+        background-color: #c7ea46;
+        display: inline-block; }
+ .artichoke{ width: 70px; height: 70px;
+             background-color:#8f9779;
+             display: inline-block;}
+ .laurel{width: 70px; height: 70px;
+         background-color:#a9ba9d;
+         display:inline-block;}
+ .pine{ width: 70px; height: 70px;
+       background-color: #01796f;
+       display: inline-block;}
+ .army{ width: 70px; height: 70px;
+     background-color: #4b5320;
+      display: inline-block; }
+ .neon{ width: 70px; height: 70px;
+        background-color: #39ff14;
+        display: inline-block;margin-bottom: 3px;}
+ .russian{ width: 70px; height: 70px;
+      background-color: #679267;
+      display: inline-block;}
+ .sage{ width: 70px; height: 70px;
+        background-color: #9dc183;
+       display: inline-block; }
+  .hunter{ width: 70px; height: 70px;
+          background-color:#3f704d;
+          display: inline-block;}
+  .fern{ width: 70px; height: 70px;
+        background-color: #4f7942;
+        display: inline-block; }
+  .moss{width: 70px; height: 70px;
+        background-color:#8a9a5b;
+        display:inline-block;margin-bottom: 3px;}
+  .tea{ width: 70px; height: 70px;
+      background-color: #d0f0c0;
+      display: inline-block;}
+  .emerald{ width: 70px; height: 70px;
+            background-color: #50c878;
+           display: inline-block; }
+  .uniform{ width: 70px; height: 70px;
+            background-color: #444c38;
+            display: inline-block;}
+  .sea{ width: 70px; height: 70px;
+        background-color: #2e8b57;
+        display: inline-block;}
+  .olive{ width: 70px; height: 70px;
+          background-color: #708238;
+          display: inline-block; }
+  .jade{ width: 70px; height: 70px;
+         background-color:#00a86b;
+         display: inline-block;margin-bottom: 3px;}
+  .jungle{ width: 70px; height: 70px;
+      background-color: #29ab87;
+      display: inline-block; }
+  .mint{ width: 70px; height: 70px;
+      background-color:#98fb98;
+      display: inline-block;}
+  .persian{width: 70px; height: 70px;
+           background-color:#00a572;
+           display:inline-block;}
+  .kelly{ width: 70px; height: 70px;
+          background-color: #4cbb17;
+          display: inline-block;}
+  .sacremento{ width: 70px; height: 70px;
+               background-color: #043927;
+               display: inline-block; }
+  .paris{ width: 70px; height: 70px;
+          background-color: #50c878;
+          display: inline-block;}
+ .caribbean{ width: 70px; height: 70px;
+         background-color: #00c0a8;
+        display: inline-block; margin-bottom: 3px;}                     
+.multicoloredd{ width: 400px; height: 400px;
+          background-color:rgb(173, 194, 173);
+          display: inline-block;
+        padding-top: 30px;
+      padding-left: 30px;}
+   .deep_sky_blue{ width: 70px; height: 70px;
+            background-color:#00bfff;
+            display: inline-block;
+          margin-bottom: 3px;}
+   .cornflower_blue{ width: 70px; height: 70px;
+          background-color: #6495ed;
+          display: inline-block; }
+   .midnight_blue{ width: 70px; height: 70px;
+               background-color:#191970;
+               display: inline-block;}
+   .snow{width: 70px; height: 70px;
+           background-color:#fffafa;
+           display:inline-block;}
+   .biege{ width: 70px; height: 70px;
+         background-color: #f5f5dc;
+         display: inline-block;}
+   .nobel{ width: 70px; height: 70px;
+       background-color: #9a9a9a;
+        display: inline-block; }
+   .shalimar{ width: 70px; height: 70px;
+          background-color: #fdfdab;
+          display: inline-block;}
+   .gorge{ width: 70px; height: 70px;
+        background-color: #ffff33;
+        display: inline-block;}
+   .gold{ width: 70px; height: 70px;
+          background-color: #ffd700;
+         display: inline-block; }
+    .salmon{ width: 70px; height: 70px;
+            background-color:#fa8072;
+            display: inline-block;margin-bottom: 3px; margin-right: 5px;}
+    .crimson{ width: 70px; height: 70px;
+          background-color: #dc143c;
+          display: inline-block; }
+    .burgundy{width: 70px; height: 70px;
+          background-color:#ba0f30;
+          display:inline-block;}
+    .lavender_pink{ width: 70px; height: 70px;
+        background-color: #ff9fd3;
+        display: inline-block;}
+    .lilgreen{ width: 70px; height: 70px;
+              background-color: #05a305;
+             display: inline-block;margin-bottom: 3px; }
+    .fushia{ width: 70px; height: 70px;
+              background-color: #fb4570;
+              display: inline-block;}
+    .whisper { width: 70px; height: 70px;
+          background-color: #e5e5e5;
+          display: inline-block;}
+    .slate_gray{ width: 70px; height: 70px;
+            background-color: #708090;
+            display: inline-block; }
+    .gray{ width: 70px; height: 70px;
+           background-color:#808080;
+           display: inline-block;}
+    .plum{ width: 70px; height: 70px;
+        background-color: #dda0dd;
+        display: inline-block; }
+    .fire_brick{ width: 70px; height: 70px;
+        background-color:#b22222;
+        display: inline-block;margin-bottom: 3px;}
+    .spring_green{width: 70px; height: 70px;
+             background-color:#00ff7f;
+             display:inline-block;}
+    .tomato{ width: 70px; height: 70px;
+            background-color: #ff6347;
+            display: inline-block;}
+    .trindad{ width: 70px; height: 70px;
+                 background-color: #cc4f39;
+                 display: inline-block; }
+    .burnt_orange{ width: 70px; height: 70px;
+            background-color: #cc5500;
+            display: inline-block;}
+   .caribbean{ width: 70px; height: 70px;
+           background-color: #00c0a8;
+          display: inline-block;margin-bottom: 3px;} 
