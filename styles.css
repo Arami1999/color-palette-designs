@@ -2,7 +2,17 @@ body{display: inline-block;
     background-color:rgb(4, 1, 27);
     color:#dff3df;
 }
-h1{color:white ;}
+h1{color:white ;
+}
+.first_line{
+  display: inline-block;
+  max-width: 1680px;
+  padding-left: 30px;
+  padding-top:30px ;
+  
+}
+.image{
+  display: inline-block;
 
 p{
     display: inline-block;
@@ -13,10 +23,14 @@ p{
     color: #090c09;
     font-weight: bolder;
 }
+.regular{
+  
+}
 .yellow{ background-color:yellow;
     width: 400px;
     height: 400px;
-    left: 20px;}
+    left: 20px;
+  display: inline-block;}
 
   p.ten{
     background-color: #f9a602;
@@ -62,7 +76,14 @@ p{
     background-color:yellow;
     width: 400px;
     height: 400px;
+    display: inline-block;
+  margin-left: 40px;
 }
+.signal_bar{
+  display: inline-block;
+}
+
+
   p.red{
     background-color: red;
     height: 40px; width: 400px;
